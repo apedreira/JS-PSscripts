@@ -1,2 +1,2 @@
 # JS-PSscripts
-A set of JS scripts for Photosop
+A set of JS scripts for Photoshop
